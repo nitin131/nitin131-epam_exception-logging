@@ -1,6 +1,6 @@
-# Nizam-Mohammed-Epam_PEP-Exception_Handling_and_Logging-Session_5
+# nitin131-epam_exception-logging
 
-[Goto JAVA files](https://github.com/nizam19/Nizam-Mohammed-Epam_PEP-Exception_Handling_and_Logging-Session_5/tree/master/logging/src/main/java/com/epam/logging)
+[Goto JAVA files](https://github.com/nitin131/nitin131-epam_exception-logging/tree/master/logging/src/main/java/com/epam/logging)
 
 
-[Goto LOG files](https://github.com/nizam19/Nizam-Mohammed-Epam_PEP-Exception_Handling_and_Logging-Session_5/tree/master/logging/src/main/logs)
+[Goto LOG files](https://github.com/nitin131/nitin131-epam_exception-logging/tree/master/logging/src/main/logs)
